@@ -57,3 +57,12 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 |---|---|
 | [00-apresentacao/](00-apresentacao/) | Apresentação |
 | [01-unidade-frequencia-e-horizonte/](01-unidade-frequencia-e-horizonte/) | Unidade, frequência e horizonte |
+| [02-tendencia-sazonalidade-ciclo-e-ruido/](02-tendencia-sazonalidade-ciclo-e-ruido/) | Tendência, sazonalidade, ciclo e ruído |
+| [03-auditar-a-venda-diaria/](03-auditar-a-venda-diaria/) | Auditar a venda diária |
+| [04-decompor-sem-antecipar-o-futuro/](04-decompor-sem-antecipar-o-futuro/) | Decompor sem antecipar o futuro |
+| [05-estacionariedade-e-dickey-fuller/](05-estacionariedade-e-dickey-fuller/) | Estacionariedade e Dickey-Fuller |
+| [06-naive-e-naive-sazonal/](06-naive-e-naive-sazonal/) | Naive e naive sazonal |
+| [07-backtesting-e-cortes-temporais/](07-backtesting-e-cortes-temporais/) | Backtesting e cortes temporais |
+| [08-mae-rmse-mape-e-wmape/](08-mae-rmse-mape-e-wmape/) | MAE, RMSE, MAPE e WMAPE |
+| [10-arima-sarimax-e-suavizacao/](10-arima-sarimax-e-suavizacao/) | ARIMA, SARIMAX e suavização |
+| [16-monitoramento-e-retreino/](16-monitoramento-e-retreino/) | Monitoramento e retreino |
