@@ -70,5 +70,7 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [12-exogenas-conhecidas-e-previstas/](12-exogenas-conhecidas-e-previstas/) | Exógenas conhecidas e previstas |
 | [13-intervalos-e-cenarios/](13-intervalos-e-cenarios/) | Intervalos e cenários |
 | [14-prophet-e-redes-neurais/](14-prophet-e-redes-neurais/) | Prophet e redes neurais |
+| [15-boosting-temporal-extensao/](15-boosting-temporal-extensao/) | Boosting temporal — extensão |
 | [16-monitoramento-e-retreino/](16-monitoramento-e-retreino/) | Monitoramento e retreino |
+| [17-demanda-e-equipe/](17-demanda-e-equipe/) | Demanda e equipe |
 | [18-defender-a-previsao/](18-defender-a-previsao/) | Defender a previsão |
