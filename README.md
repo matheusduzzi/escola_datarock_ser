@@ -64,5 +64,11 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [06-naive-e-naive-sazonal/](06-naive-e-naive-sazonal/) | Naive e naive sazonal |
 | [07-backtesting-e-cortes-temporais/](07-backtesting-e-cortes-temporais/) | Backtesting e cortes temporais |
 | [08-mae-rmse-mape-e-wmape/](08-mae-rmse-mape-e-wmape/) | MAE, RMSE, MAPE e WMAPE |
+| [09-features-disponiveis-na-decisao/](09-features-disponiveis-na-decisao/) | Features disponíveis na decisão |
 | [10-arima-sarimax-e-suavizacao/](10-arima-sarimax-e-suavizacao/) | ARIMA, SARIMAX e suavização |
+| [11-modelo-contra-baseline/](11-modelo-contra-baseline/) | Modelo contra baseline |
+| [12-exogenas-conhecidas-e-previstas/](12-exogenas-conhecidas-e-previstas/) | Exógenas conhecidas e previstas |
+| [13-intervalos-e-cenarios/](13-intervalos-e-cenarios/) | Intervalos e cenários |
+| [14-prophet-e-redes-neurais/](14-prophet-e-redes-neurais/) | Prophet e redes neurais |
 | [16-monitoramento-e-retreino/](16-monitoramento-e-retreino/) | Monitoramento e retreino |
+| [18-defender-a-previsao/](18-defender-a-previsao/) | Defender a previsão |
